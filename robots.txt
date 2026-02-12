@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://novass-ten.vercel.app/sitemap.xml
